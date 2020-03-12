@@ -1,10 +1,13 @@
 <template lang="pug">
 .home
-	img(alt='Vue logo' src='../assets/logo.png')
+	img(alt='Vue logo' src='../assets/img/hammer-sickle.svg' width="150px")
 	h1 Addio Mondo Crudele
-	vk-button(type="primary") Press Me For Time 
-		
-		
+	h2 VU Meter Registers Loudness
+	router-link(to="/about")
+		vk-button(color="blue-grey" size="large" style="background-color: #607d8b; color: white;") 
+			i.fas.fa-sun.fa-2x.mr-3
+			| Pressed for Time
+
 </template>
 
 <script>
@@ -18,3 +21,13 @@ export default {
 	}
 }
 </script>
+
+<style>
+.home {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}

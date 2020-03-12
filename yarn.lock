@@ -7943,6 +7943,11 @@ uglify-to-browserify@~1.0.0:
   resolved "https://registry.yarnpkg.com/uglify-to-browserify/-/uglify-to-browserify-1.0.2.tgz#6e0924d6bda6b5afe349e39a6d632850a0f882b7"
   integrity sha1-bgkk1r2mta/jSeOabWMoUKD4grc=
 
+uikit@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/uikit/-/uikit-3.3.1.tgz#342987c1d5072a04f63630429310e79cd74d7b8a"
+  integrity sha512-ddE01TPVP2rA8A/a9wkaixkhympjIOfpL//Gp0lHrjTNskBZYIazmBjW9OifJNrvp5di/1kbWVBl8fWKswAQnQ==
+
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/unicode-canonical-property-names-ecmascript/-/unicode-canonical-property-names-ecmascript-1.0.4.tgz#2619800c4c825800efdd8343af7dd9933cbe2818"

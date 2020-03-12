@@ -18,7 +18,7 @@
  */
 html {
   /* 1 */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "News Cycle" -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 15px;
   font-weight: normal;
   line-height: 1.5;
@@ -54,7 +54,7 @@ a:hover {
  */
 a,
 .uk-link {
-  color: #1e87f0;
+  color: #607d8b;
   text-decoration: none;
   cursor: pointer;
 }
@@ -227,7 +227,7 @@ h5,
 h6,
 .uk-h6 {
   margin: 0 0 20px 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "News Cycle", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-weight: 300;
   color: #222;
   text-transform: none;
@@ -3845,7 +3845,7 @@ ul.uk-nav-sub {
   padding: 0 15px;
   /* 3 */
   font-size: 14px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "News Cycle", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   /* 4 */
   text-decoration: none;
 }
@@ -7166,7 +7166,7 @@ iframe.uk-cover {
  */
 .uk-logo {
   font-size: 24px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: "News Cycle", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   color: #666;
   /* 1 */
   text-decoration: none;
