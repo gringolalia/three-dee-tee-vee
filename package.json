@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "now-build": "npm run build",
-    "start": "vue-cli-service serve"
+    "start": "vue-cli-service serve",
+    "heroku-postinstall": "npm install && npm run build"
   },
   "dependencies": {
     "@vuikit/icons": "^0.8.1",

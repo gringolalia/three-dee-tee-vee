@@ -3,8 +3,8 @@
 	#nav
 		vk-navbar.with.dignity
 			vk-navbar-nav(slot='center-left')
-				vk-navbar-nav-item(title='Sobre Pobres' href="/about")
-				vk-navbar-nav-dropdown(title='Double Binds')
+				vk-navbar-nav-item(title='Double Binds' href="/about")
+				vk-navbar-nav-dropdown(title='Hedges')
 					vk-navbar-nav-dropdown-nav
 						vk-nav-item(title='Swaps')
 						vk-nav-item(title='Options' active)
@@ -18,10 +18,10 @@
 				i.fas.fa-sun.fa-2x.uk-margin-small-right
 				| Engenho Novo LLP
 			vk-navbar-nav(slot='center-right')
-				vk-navbar-nav-item(title='Center Right')
+				vk-navbar-nav-item(title='Enter Center')
 
 			vk-navbar-nav(slot='center-right')
-				vk-navbar-nav-item(title='Right Wing')
+				vk-navbar-nav-item(title='Tightly Right')
 	router-view
 		
 		

@@ -5,7 +5,7 @@
 	h2 VU Meter Registers Loudness
 	router-link(to="/about")
 		vk-button(color="blue-grey" size="large" style="background-color: #607d8b; color: white;") 
-			i.fas.fa-sun.fa-2x.mr-3
+			i.fas.fa-sun.fa-2x.mr2
 			| Pressed for Time
 
 </template>

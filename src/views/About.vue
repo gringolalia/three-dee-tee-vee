@@ -5,7 +5,7 @@
 	h2.vk-margin-bottom-remove Senseless and Referenced
 
 	router-link(to="/")
-		vk-button(color="blue-grey" size="large" style="background-color: #607d8b; color: white;") Imprimir Assim Dizer
+		vk-button(type="danger" size="large" style="background-color: #607d8b; color: white;") Imprimir Assim Dizer
 	h6
-		i.fas.fa-music.fa-5x.vk-margin-large-top
+		i.material-icons.md-96.vk-margin-large-top waves
 </template>
